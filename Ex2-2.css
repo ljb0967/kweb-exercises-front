@@ -1,0 +1,26 @@
+.title {
+    font-size: 20px;
+}
+
+
+#find-btn {
+    padding: 0;
+    list-style-type: none;
+}
+
+.button{
+    width: 60px; height: 60px;
+    border: 1px solid black;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: pink;
+}
+
+button + button {
+    margin-left: 25px;
+}
+
+#submit {
+    padding: 0;
+    list-style-type: none;
+}
