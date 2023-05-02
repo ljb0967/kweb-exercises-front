@@ -1,0 +1,60 @@
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#content {
+    padding: 0;
+    list-style-type: none;
+}
+
+#content > li {
+    font-size: 16px;
+}
+
+#article-list1 {
+    padding: 0;
+    list-style-type: none
+}
+
+#article-list1 > li {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#article-list1 > a {
+    font-size: 16px;
+    color: blue;
+}
+
+#article-list2 {
+    padding: 0;
+    list-style-type: none
+}
+
+#article-list2 > li {
+    font-size: 16px;
+    color: red;
+    font-weight: bold;
+}
+
+#article-list2 > a {
+    font-size: 16px;
+    color: blue;
+}
+
+#article-list3 {
+    padding: 0;
+    list-style-type: none
+}
+
+#article-list3 > li {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#article-list3 > a {
+    font-size: 16px;
+    color: blue;
+}
